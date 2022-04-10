@@ -4,15 +4,14 @@
 
 ---
 
-This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
+Trang tự trải nghiệm được này thuộc vào [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 			
-Please feel free to use this in your classrooms,
-make video/picture/text adaptations,
-or modify the source code!
-Attribution is not mandatory, but super appreciated.
-We are [Vi Hart](http://vihart.com/) and [Nicky Case](http://ncase.me/). 
+Bạn có thể tự do sử dụng trang này trong lớp hợc, làm video/hình ảnh/lời thoại, hoặc sửa đổi mã nguồn! 
+Không nhất thiết phải ghi nhận về đóng góp, nhưng chúng tôi sẽ rất cảm kích nếu có.   
+ 
+Chúng tôi là [Vi Hart](http://vihart.com/) và [Nicky Case](http://ncase.me/). 
 		
-Show us how you're using and remixing Parable of the Polygons!    
-Tweet us at
-[@vihartvihart](https://twitter.com/vihartvihart) and
+Hãy cho chúng tôi biết bạn sử dụng và điều chỉnh Parable of the Polygons như thế nào!    
+Hãy nhắn cho chúng tôi tại địa chỉ 
+[@vihartvihart](https://twitter.com/vihartvihart) và 
 [@ncasenmare](https://twitter.com/ncasenmare).
